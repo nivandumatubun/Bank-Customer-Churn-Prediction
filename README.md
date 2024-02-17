@@ -11,3 +11,7 @@ Reducing or lowering the churn rate.
 
 ## Business Metric
 Churn Rate (percentage of customers who churn)
+
+[Documentation Detail](https://github.com/nivandumatubun/Bank-Customer-Churn-Prediction/blob/main/Source%20Code_Group%201%20(Explorer)_DS%20Batch%2037.ipynb)
+
+
